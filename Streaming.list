@@ -1,5 +1,4 @@
 # Streaming Media
-
 # (Live)
 # > Twitch
 DOMAIN-SUFFIX,ext-twitch.tv
@@ -8,7 +7,6 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch-ext.rootonline.de
-
 # (Music)
 # > Deezer
 USER-AGENT,Deezer*
@@ -45,7 +43,6 @@ DOMAIN-SUFFIX,tidal.com
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
-
 # (Podcast)
 # > Himalaya
 USER-AGENT,Himalaya*
@@ -53,7 +50,6 @@ DOMAIN-SUFFIX,himalaya.com
 # > Overcast
 USER-AGENT,Overcast*
 DOMAIN-SUFFIX,overcast.fm
-
 # (Video)
 # > AbemaTV
 USER-AGENT,AbemaTV*
@@ -303,7 +299,7 @@ USER-AGENT,WeTV*
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 IP-CIDR,150.109.28.51/32,no-resolve
-# NAME: TikTok
+#  > TikTok
 HOST,p16-tiktokcdn-com.akamaized.net,TikTok
 HOST-SUFFIX,byteoversea.com,TikTok
 HOST-SUFFIX,ibytedtos.com,TikTok
