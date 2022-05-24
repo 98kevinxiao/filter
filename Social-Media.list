@@ -1,0 +1,27 @@
+# 微博
+DOMAIN,api.weibo.cn,proxy
+USER-AGENT,^https?:\/\/api\.weibo\.cn\/2\/statuses\/send\?,proxy
+USER-AGENT,^https?:\/\/api\.weibo\.cn\/2\/comments\/create\?,proxy
+
+# 知乎
+IP-CIDR,103.41.167.226/8,proxy
+
+# 头条
+DOMAIN-SUFFIX,toutiaoapi.com,proxy
+
+# 抖音
+DOMAIN-KEYWORD,normal-lq,proxy
+DOMAIN-KEYWORD,normal-c-lq,proxy
+
+# 贴吧
+DOMAIN,www.baidu.com,proxy
+DOMAIN,tracker.dcdn.baidu.com,proxy
+DOMAIN,bgg.baidu.com,proxy
+DOMAIN,query.dcdn.baidu.com,proxy
+DOMAIN,afdconf.baidu.com,proxy
+DOMAIN,mbd.baidu.com,proxy
+DOMAIN,cdn.hiphotos.baidu.com,proxy
+DOMAIN,im.tieba.baidu.com,proxy
+DOMAIN,bdbus-turbonet.baidu.com,proxy
+DOMAIN,tcbox.baidu.com,proxy
+DOMAIN,tiebac.baidu.com,proxy
