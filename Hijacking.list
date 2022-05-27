@@ -164,6 +164,7 @@ IP-CIDR,211.161.101.110/32,no-resolve
 IP-CIDR,220.115.251.25/32,no-resolve
 IP-CIDR,222.73.156.235/32,no-resolve
 
+ip-cidr, 203.107.1.1/24
 # Malware
 # > Huawei AspiegelBot
 IP-CIDR,114.119.160.0/21,no-resolve
