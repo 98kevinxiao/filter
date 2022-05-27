@@ -241,7 +241,7 @@ DOMAIN,adsfs.oppomobile.com
 
 # (S)
 # > Safari 防跳转
-host, app-site-association.cdn-apple.com
+DOMAIN, app-site-association.cdn-apple.com
 # > Sina
 DOMAIN-SUFFIX,alitui.weibo.com
 DOMAIN-SUFFIX,beacon.sina.com.cn
@@ -355,7 +355,7 @@ DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 
 #YouTube 去底部广告
-host-suffix, ehg-youtube.hitbox.com
+DOMAIN-SUFFIX, ehg-youtube.hitbox.com
 
 # (Z)
 # > Zhihu
