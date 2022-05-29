@@ -238,6 +238,10 @@ DOMAIN,ad-cdn.qingting.fm
 # > OPPO
 DOMAIN-SUFFIX,ads.oppomobile.com
 DOMAIN,adsfs.oppomobile.com
+# > Quark
+host-suffix, safebrowsing.urlsec.qq.com
+host-suffix, safebrowsing.googleapis.com
+host-suffix, lookup.api.bsb.baidu.com
 
 # (S)
 # > Safari 防跳转
