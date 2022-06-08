@@ -13,6 +13,13 @@ DOMAIN-SUFFIX,toutiaoapi.com,proxy
 DOMAIN-KEYWORD,normal-lq,proxy
 DOMAIN-KEYWORD,normal-c-lq,proxy
 
+HOST-SUFFIX,amemv.com,proxy
+HOST-SUFFIX,ixigua.com,proxy
+HOST-SUFFIX,ixiguavideo.com,proxy
+HOST-SUFFIX,pstatp.com,proxy
+HOST-SUFFIX,snssdk.com,proxy
+HOST-SUFFIX,toutiao.com,proxy
+
 # 贴吧
 DOMAIN,www.baidu.com,proxy
 DOMAIN,tracker.dcdn.baidu.com,proxy
