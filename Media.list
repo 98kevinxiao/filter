@@ -298,26 +298,6 @@ USER-AGENT,WeTV*
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 IP-CIDR,150.109.28.51/32,no-resolve
-#  > TikTok
-HOST,p16-tiktokcdn-com.akamaized.net,TikTok
-HOST-SUFFIX,byteoversea.com,TikTok
-HOST-SUFFIX,ibytedtos.com,TikTok
-HOST-SUFFIX,ibyteimg.com,TikTok
-HOST-SUFFIX,ipstatp.com,TikTok
-HOST-SUFFIX,muscdn.com,TikTok
-HOST-SUFFIX,musical.ly,TikTok
-HOST-SUFFIX,sgpstatp.com,TikTok
-HOST-SUFFIX,snssdk.com,TikTok
-HOST-SUFFIX,tik-tokapi.com,TikTok
-HOST-SUFFIX,tiktok.com,TikTok
-HOST-SUFFIX,tiktokcdn.com,TikTok
-HOST-SUFFIX,tiktokv.com,TikTok
-HOST-KEYWORD,-tiktokcdn-com,TikTok
-HOST-KEYWORD,musical.ly,TikTok
-HOST-KEYWORD,tiktok,TikTok
-HOST-KEYWORD,tiktokcdn-,TikTok
-HOST-KEYWORD,tiktokv,TikTok
-USER-AGENT,TikTok*,TikTok
 # > YouTube
 HOST,youtubei.googleapis.com,YouTube
 HOST,yt3.ggpht.com,YouTube
