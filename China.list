@@ -186,6 +186,8 @@ IP-CIDR,39.105.175.128/32,NetEaseMusic
 IP-CIDR,59.111.128.0/17,NetEaseMusic
 IP-CIDR,59.111.19.33/32,NetEaseMusic
 IP-CIDR,59.111.21.14/31,NetEaseMusic
-
+# > 抖音
+host-suffix, snssdk.com
+host-suffix, amemv.com
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
