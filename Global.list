@@ -454,3 +454,8 @@ DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
+#天气数据
+host, api.waqi.info
+#Siri搜索建议
+host,lookup-api.apple.com.edgekey.net
+host,e16991.b.akamaiedge.net
