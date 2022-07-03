@@ -199,6 +199,9 @@ ip-cidr, 100.64.0.0/10
 ip-cidr, 224.0.0.0/4
 ip6-cidr, fe80::/10
 ip-cidr, 183.240.197.130/32
+#淘宝
+
+host-suffix, trade-acs.m.taobao.com
 
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
