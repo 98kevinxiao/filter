@@ -85,3 +85,66 @@ host-keyword, douyinvod
 host, p26-sign.douyinpic.com
 host, api3-normal-c-lf.amemv.com
 host, v1.douyinvod.com
+
+
+
+# 针对部分网站显示IP归属地的QuantumultX分流规则
+# 原项目地址：https://github.com/lwd-temp/anti-ip-attribution
+# 欢迎提issues或私信bot,贡献应用新的api地址
+# 更新时间：2022-07-21
+
+
+# ======= 哔哩哔哩 ======= #
+DOMAIN-SUFFIX,biliapi.net,IP
+DOMAIN,api.bilibili.com,IP 
+DOMAIN,api.bilibili.tv,IP 
+DOMAIN,app.bilibili.com,IP 
+DOMAIN-SUFFIX,biliapi.com,IP 
+DOMAIN,api.live.bilibili.com,IP 
+DOMAIN,api.vc.bilibili.com,IP 
+DOMAIN,passport.bilibili.com,IP 
+DOMAIN,live-trace.bilibili.com,IP 
+DOMAIN,message.bilibili.com,IP 
+DOMAIN,cm.bilibili.com,IP 
+
+# ======= 微博 ======= #
+DOMAIN,api.weibo.cn,IP
+DOMAIN,api.weibo.com,IP 
+
+# ======= 百度贴吧 ======= #
+DOMAIN,tieba.baidu.com,IP 
+DOMAIN,tbmsg.baidu.com,IP 
+DOMAIN,tb5.bdstatic.com,IP 
+DOMAIN,fclog.baidu.com,IP 
+DOMAIN,gsp0.baidu.com,IP
+DOMAIN,hm.baidu.com,IP 
+DOMAIN,www.baidu.com,IP
+ 
+# ======= 微信 ======= #
+DOMAIN,szshort.weixin.qq.com,IP
+DOMAIN,szextshort.weixin.qq.com,IP
+DOMAIN,szminorshort.weixin.qq.com,IP
+DOMAIN,mp.weixin.qq.com,IP 
+
+# ======= 知乎 ======= #
+#DOMAIN,zhihu-web-analytics.zhihu.com,IP
+#DOMAIN,www.zhihu.com,IP
+#DOMAIN,api.zhihu.com,IP
+DOMAIN-SUFFIX,zhihu.com,IP
+IP-CIDR,103.41.167.0/24,IP
+
+# ======= 国家反诈中心 ======= #
+DOMAIN-SUFFIX,gjfzpt.cn,REJECT 
+
+# ======= 抖音 ======= #
+# 请求域名过多，建议全局代理
+DOMAIN-KEYWORD,core-c-lq,IP
+DOMAIN-KEYWORD,core-lq,IP
+DOMAIN-KEYWORD,normal-c-lq,IP
+DOMAIN-KEYWORD,normal-lq,IP
+DOMAIN-KEYWORD,search-quic-lq,IP
+DOMAIN-KEYWORD,search-lq,IP
+
+# ======= 头条 ======= #
+# 网友提供头条IP定位接口
+DOMAIN-SUFFIX,toutiaoapi.com,IP
