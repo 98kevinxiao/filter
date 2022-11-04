@@ -225,8 +225,7 @@ IP-CIDR,128.199.214.105/22
 IP-CIDR,143.244.182.110/22
 #DO纽约
 IP-CIDR,137.184.105.150/22
-#EUserv
-IP-CIDR,2a02:0180:0006:0001:0000:0000:0000:2eec/22
+
 
 
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
