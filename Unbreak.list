@@ -39,7 +39,7 @@ DOMAIN,msg.umengcloud.com
 
 # > VPS
 #AMD圣保罗
-IP-CIDR,168.138.150.28/22
+IP-CIDR,129.148.49.143/22
 #AMD悉尼
 IP-CIDR,192.9.179.207/22
 #AMD春川
