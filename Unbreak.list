@@ -13,7 +13,7 @@ DOMAIN,clientservices.googleapis.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
-DOMAIN,translate.googleapis.com
+#DOMAIN,translate.googleapis.com
 # >> Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
 DOMAIN,alt1-mtalk.google.com
@@ -60,6 +60,4 @@ IP-CIDR,128.199.214.105/22
 IP-CIDR,143.244.182.110/22
 #DO纽约
 IP-CIDR,137.184.105.150/22
-#EUserv
-IP6-CIDR,2a02:0180:0006:0001:0000:0000:0000:2eec/22
 
