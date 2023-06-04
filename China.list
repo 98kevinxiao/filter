@@ -496,7 +496,7 @@ DOMAIN-SUFFIX,redacted.ch
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
-# > NeteaseMusic
+# > 网易云
 HOST,admusicpic.music.126.net
 HOST,apm.music.163.com
 HOST,apm3.music.163.com
@@ -538,7 +538,7 @@ IP-CIDR,223.252.192.0/19
 IP-CIDR,59.111.128.0/17
 IP-CIDR,59.111.19.33/32
 IP-CIDR,59.111.21.14/31
-# > Zhihu
+# > 知乎
 HOST-SUFFIX,zhihu.com
 HOST-SUFFIX,zhimg.com
 IP-CIDR,103.41.167.226/32
@@ -549,6 +549,12 @@ IP6-CIDR,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 # > 抖音
 host-suffix, snssdk.com
 host-suffix, amemv.com
+# > 淘宝
+host-suffix, trade-acs.m.taobao.com
+# > 小红书
+HOST-SUFFIX,fengkongcloud.com
+HOST-SUFFIX,xhscdn.com
+HOST-SUFFIX,xiaohongshu.com
 # > 未知
 host-suffix,local
 ip-cidr, 192.168.0.0/16
@@ -559,8 +565,7 @@ ip-cidr, 100.64.0.0/10
 ip-cidr, 224.0.0.0/4
 ip6-cidr, fe80::/10
 ip-cidr, 183.240.197.130/32
-# > 淘宝
-host-suffix, trade-acs.m.taobao.com
+
 
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve
