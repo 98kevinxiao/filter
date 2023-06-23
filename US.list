@@ -37,8 +37,8 @@ DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,link.theplatform.com
 
 # > Talkatone
-DOMAIN,*.tktn.be
-
+DOMAIN,d.tktn.be
+DOMAIN,a1.tktn.be
 
 # > PBS
 USER-AGENT,PBS*
