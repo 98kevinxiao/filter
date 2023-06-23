@@ -36,6 +36,10 @@ DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,link.theplatform.com
 
+# > Talkatone
+DOMAIN,a1.tktn.be
+DOMAIN,d.tktn.be
+
 # > PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
